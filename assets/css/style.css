@@ -1,0 +1,15 @@
+.form-floating {
+    margin-bottom: 8px;
+}
+
+.form-select {
+    margin-bottom: 12px;
+}
+
+.card {
+    margin-top: 15%;
+}
+
+#search-btn {
+    width: 100%;
+}
