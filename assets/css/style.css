@@ -1,0 +1,23 @@
+* {
+    
+}
+
+body {
+    background-color: lightgrey;
+}
+
+#sideBar {
+    width: fit-content;
+}
+
+#content {
+    background-color: darkcyan;
+    display: flex;
+    width: 100%;
+}
+
+#content button {
+    align-items: center;
+    width: 20%;
+    height: auto;
+}
